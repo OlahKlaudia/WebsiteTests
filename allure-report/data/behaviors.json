@@ -1,0 +1,380 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "automationPracticeWebsite()",
+    "uid" : "b470689a0f1ceb0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1657890548279,
+      "stop" : 1657890548760,
+      "duration" : 481
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "automationPracticeWebsiteTest()",
+    "uid" : "b68680b8b659ab2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1658134263745,
+      "stop" : 1658134272267,
+      "duration" : 8522
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "DemoQA",
+    "children" : [ {
+      "name" : "DemoQA test",
+      "children" : [ {
+        "name" : "Dynamic Property Test",
+        "uid" : "fed4feb488b30322",
+        "parentUid" : "632194fc071c0858beabacdbd5bec3f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Droppable rectangle Test",
+        "uid" : "ab9cec9b825c939a",
+        "parentUid" : "632194fc071c0858beabacdbd5bec3f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838244,
+          "duration" : 1131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Upload File Test",
+        "uid" : "8486d260c76366a2",
+        "parentUid" : "632194fc071c0858beabacdbd5bec3f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Widget Test",
+        "uid" : "74dd678c391ee3ba",
+        "parentUid" : "632194fc071c0858beabacdbd5bec3f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838247,
+          "duration" : 1134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "632194fc071c0858beabacdbd5bec3f5"
+    } ],
+    "uid" : "8196e04b3fe5dbfc9ae295ffb2bd55aa"
+  }, {
+    "name" : "Web shop",
+    "children" : [ {
+      "name" : "Web shop test",
+      "children" : [ {
+        "name" : "Forgot password Test - retrieve password",
+        "uid" : "19cb80a328b6638c",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838246,
+          "duration" : 1133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Registration User Test",
+        "uid" : "9e1fb30078df0671",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838251,
+          "duration" : 1138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Product order test (M size, blue color) Test",
+        "uid" : "268796a1a6eefd10",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create Screenshot Test",
+        "uid" : "adfeb33ea5152b5b",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838245,
+          "duration" : 1132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login empty password field error validation Test",
+        "uid" : "5acde7426e460c6d",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - wrong password error validation Test",
+        "uid" : "c89778c5636058df",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password Test -  wrong email format validation",
+        "uid" : "54b75709e1860d1b",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837987,
+          "stop" : 1659602838243,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login Test",
+        "uid" : "43130462b1b7dbec",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837995,
+          "stop" : 1659602838249,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - logout Test",
+        "uid" : "56d5ee62165c160f",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838003,
+          "stop" : 1659602838250,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - missing required values Test",
+        "uid" : "2b8d8365a2936734",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838013,
+          "stop" : 1659602838252,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Product order Test (S size, orange color)",
+        "uid" : "65cbbf9b34f5bb8",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838021,
+          "stop" : 1659602838246,
+          "duration" : 225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - set the birth date on creation  Test",
+        "uid" : "957c571b653d5163",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838159,
+          "stop" : 1659602838243,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration Test",
+        "uid" : "93e1c051a9bb9234",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838176,
+          "stop" : 1659602838248,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - used email error validation Test",
+        "uid" : "e4b659c7d228572e",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838474,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - unregistered email error validation Test",
+        "uid" : "c0bf1893a9f94154",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838465,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password  - retrieve password Test",
+        "uid" : "51f5cce39b6f506b",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838467,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search for 'blouse' Test",
+        "uid" : "fb94d9ae254864bd",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838466,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - wrong email format error validations Test",
+        "uid" : "d24b1a908de1ff1f",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838466,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - wrong email format error validations Test",
+        "uid" : "e67dee2262634d9d",
+        "parentUid" : "cd630d0569a04fd14410bd21c03124fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838468,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd630d0569a04fd14410bd21c03124fa"
+    } ],
+    "uid" : "0dd979c3ece36b079355924c2af7fa72"
+  }, {
+    "name" : "OrangeHrm",
+    "children" : [ {
+      "name" : "OrangeHrm test",
+      "children" : [ {
+        "name" : "Employee claims Test",
+        "uid" : "c55182c668acb0c4",
+        "parentUid" : "466c21342a781aa7696765bb75c0f087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838252,
+          "duration" : 1139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "My info Test",
+        "uid" : "e549626689fe5478",
+        "parentUid" : "466c21342a781aa7696765bb75c0f087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838250,
+          "duration" : 1137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "466c21342a781aa7696765bb75c0f087"
+    } ],
+    "uid" : "df6e4f71c50796565d2d9ec71bed4367"
+  } ]
+}

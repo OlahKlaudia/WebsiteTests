@@ -1,0 +1,541 @@
+{
+  "1f2c89b83f351de1534e77d9c8f8c72c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51f5cce39b6f506b",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838443,
+        "stop" : 1659602838467,
+        "duration" : 24
+      }
+    } ]
+  },
+  "70b125e9fcf78a9f597e1ed2c3462472" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb94d9ae254864bd",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838443,
+        "stop" : 1659602838466,
+        "duration" : 23
+      }
+    } ]
+  },
+  "32930890f34dfeb509b7e00c0c4cfad2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93e1c051a9bb9234",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838176,
+        "stop" : 1659602838248,
+        "duration" : 72
+      }
+    } ]
+  },
+  "161d0baaa079d9bde46629be275b44a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b68680b8b659ab2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658134263745,
+        "stop" : 1658134272267,
+        "duration" : 8522
+      }
+    } ]
+  },
+  "528bd9a83a6d2b4e07fd70dbfd00abc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43130462b1b7dbec",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837995,
+        "stop" : 1659602838249,
+        "duration" : 254
+      }
+    } ]
+  },
+  "81ab2ee0fbd9faaab14b9ddb9b2c4817" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65cbbf9b34f5bb8",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838021,
+        "stop" : 1659602838246,
+        "duration" : 225
+      }
+    } ]
+  },
+  "d32aa30e9a5dd876de57a88a8c5b22cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74dd678c391ee3ba",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838247,
+        "duration" : 1134
+      }
+    } ]
+  },
+  "f8ca51a85b8ec6e5e33889e5ae12e5c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19cb80a328b6638c",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838246,
+        "duration" : 1133
+      }
+    } ]
+  },
+  "3a58a90b1d05b5febab6ad35e908b96c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "957c571b653d5163",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838159,
+        "stop" : 1659602838243,
+        "duration" : 84
+      }
+    } ]
+  },
+  "1099cdb5eca41b8da942753945a62e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54b75709e1860d1b",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837987,
+        "stop" : 1659602838243,
+        "duration" : 256
+      }
+    } ]
+  },
+  "3397fa9a5393d421dcdf8d2c7ad147ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e1fb30078df0671",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838251,
+        "duration" : 1138
+      }
+    } ]
+  },
+  "5c8d2baae9bfd948831dc787c5f447c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b470689a0f1ceb0c",
+      "status" : "broken",
+      "statusDetails" : "org/openqa/selenium/internal/ShutdownHooks$HookExecutionStrategy",
+      "time" : {
+        "start" : 1657890548279,
+        "stop" : 1657890548760,
+        "duration" : 481
+      }
+    } ]
+  },
+  "7beafc0d1f92d869c9bd295c89c20998" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e67dee2262634d9d",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838444,
+        "stop" : 1659602838468,
+        "duration" : 24
+      }
+    } ]
+  },
+  "e8400f83f54c926fe0849a05fe67fe44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0bf1893a9f94154",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838443,
+        "stop" : 1659602838465,
+        "duration" : 22
+      }
+    } ]
+  },
+  "670c88a3eece2349500e3f1faa58cb85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab9cec9b825c939a",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838244,
+        "duration" : 1131
+      }
+    } ]
+  },
+  "2e6a210a17efd45c6ee46ba85fb8b17c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8486d260c76366a2",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838243,
+        "duration" : 1130
+      }
+    } ]
+  },
+  "5914728e8646ab5a9f4f69bca580db86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5acde7426e460c6d",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838243,
+        "duration" : 1130
+      }
+    } ]
+  },
+  "e92f76cc27b674016261c18ee8e64386" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e549626689fe5478",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838250,
+        "duration" : 1137
+      }
+    } ]
+  },
+  "578397e234f391390bc230842c5e0030" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c55182c668acb0c4",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838252,
+        "duration" : 1139
+      }
+    } ]
+  },
+  "94a0edc3e529144cf91e0bb0822735df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "adfeb33ea5152b5b",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838245,
+        "duration" : 1132
+      }
+    } ]
+  },
+  "d0e6dd8d1910c71d3d0a7a24c085976" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56d5ee62165c160f",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838003,
+        "stop" : 1659602838250,
+        "duration" : 247
+      }
+    } ]
+  },
+  "6e7139bb3ecc688757b05dee5f7f5543" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4b659c7d228572e",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838443,
+        "stop" : 1659602838474,
+        "duration" : 31
+      }
+    } ]
+  },
+  "2fa42211e53cccd3f1ca3fa3f22c6271" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fed4feb488b30322",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838243,
+        "duration" : 1130
+      }
+    } ]
+  },
+  "d4e98a2392523091bf088c02cb210a5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "268796a1a6eefd10",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838243,
+        "duration" : 1130
+      }
+    } ]
+  },
+  "92172bcc8a670903b31c5a3dc534ab32" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d24b1a908de1ff1f",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838444,
+        "stop" : 1659602838466,
+        "duration" : 22
+      }
+    } ]
+  },
+  "4ed3fe09a2e8336d310bbb41bbfb122" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c89778c5636058df",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602837113,
+        "stop" : 1659602838243,
+        "duration" : 1130
+      }
+    } ]
+  },
+  "b5614bdc9385c25a6c5320ec269c6044" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b8d8365a2936734",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659602838013,
+        "stop" : 1659602838252,
+        "duration" : 239
+      }
+    } ]
+  }
+}

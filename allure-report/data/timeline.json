@@ -1,0 +1,444 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-6CHBCKQ",
+    "children" : [ {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-5(41)",
+      "children" : [ {
+        "name" : "Registration - used email error validation Test",
+        "uid" : "e4b659c7d228572e",
+        "parentUid" : "7f5212f60d3c0dacedfc044b0eda77db",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838474,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password Test -  wrong email format validation",
+        "uid" : "54b75709e1860d1b",
+        "parentUid" : "7f5212f60d3c0dacedfc044b0eda77db",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837987,
+          "stop" : 1659602838243,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f5212f60d3c0dacedfc044b0eda77db"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-13(18)",
+      "children" : [ {
+        "name" : "Login - unregistered email error validation Test",
+        "uid" : "c0bf1893a9f94154",
+        "parentUid" : "c5252d4a280a28656bf095e2aad87076",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838465,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Widget Test",
+        "uid" : "74dd678c391ee3ba",
+        "parentUid" : "c5252d4a280a28656bf095e2aad87076",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838247,
+          "duration" : 1134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5252d4a280a28656bf095e2aad87076"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-11(16)",
+      "children" : [ {
+        "name" : "Dynamic Property Test",
+        "uid" : "fed4feb488b30322",
+        "parentUid" : "73ed72556d3fed86c580bfac2ccda216",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search for 'blouse' Test",
+        "uid" : "fb94d9ae254864bd",
+        "parentUid" : "73ed72556d3fed86c580bfac2ccda216",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838466,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73ed72556d3fed86c580bfac2ccda216"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-12(25)",
+      "children" : [ {
+        "name" : "Forgot password Test - retrieve password",
+        "uid" : "19cb80a328b6638c",
+        "parentUid" : "4d94fe8736f4cb5671f0ee0e5fac3a1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838246,
+          "duration" : 1133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d94fe8736f4cb5671f0ee0e5fac3a1c"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-18(49)",
+      "children" : [ {
+        "name" : "Product order Test (S size, orange color)",
+        "uid" : "65cbbf9b34f5bb8",
+        "parentUid" : "811b00a135f7f312136b7b48ff6c01d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838021,
+          "stop" : 1659602838246,
+          "duration" : 225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password  - retrieve password Test",
+        "uid" : "51f5cce39b6f506b",
+        "parentUid" : "811b00a135f7f312136b7b48ff6c01d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838467,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "811b00a135f7f312136b7b48ff6c01d8"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-1(22)",
+      "children" : [ {
+        "name" : "Check Registration User Test",
+        "uid" : "9e1fb30078df0671",
+        "parentUid" : "7055f6b4aaca18bec7cc1ca613261e17",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838251,
+          "duration" : 1138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7055f6b4aaca18bec7cc1ca613261e17"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-7(45)",
+      "children" : [ {
+        "name" : "Login - logout Test",
+        "uid" : "56d5ee62165c160f",
+        "parentUid" : "cf9a1e04330547efd6fcbccfec10be44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838003,
+          "stop" : 1659602838250,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf9a1e04330547efd6fcbccfec10be44"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-8(21)",
+      "children" : [ {
+        "name" : "Login - wrong email format error validations Test",
+        "uid" : "d24b1a908de1ff1f",
+        "parentUid" : "80dec818efb181cb36eb36b1b1c6a170",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838466,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create Screenshot Test",
+        "uid" : "adfeb33ea5152b5b",
+        "parentUid" : "80dec818efb181cb36eb36b1b1c6a170",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838245,
+          "duration" : 1132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "80dec818efb181cb36eb36b1b1c6a170"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-2(15)",
+      "children" : [ {
+        "name" : "Droppable rectangle Test",
+        "uid" : "ab9cec9b825c939a",
+        "parentUid" : "e56320103e04242b70ba7b96d5c3f703",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838244,
+          "duration" : 1131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e56320103e04242b70ba7b96d5c3f703"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-19(51)",
+      "children" : [ {
+        "name" : "Registration - set the birth date on creation  Test",
+        "uid" : "957c571b653d5163",
+        "parentUid" : "df3c8648a705ac7c210c86baebf72c26",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838159,
+          "stop" : 1659602838243,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df3c8648a705ac7c210c86baebf72c26"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-27(53)",
+      "children" : [ {
+        "name" : "Registration - wrong email format error validations Test",
+        "uid" : "e67dee2262634d9d",
+        "parentUid" : "24e96650dedbb439ecb01216635c0843",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838468,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration Test",
+        "uid" : "93e1c051a9bb9234",
+        "parentUid" : "24e96650dedbb439ecb01216635c0843",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838176,
+          "stop" : 1659602838248,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24e96650dedbb439ecb01216635c0843"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-4(17)",
+      "children" : [ {
+        "name" : "Upload File Test",
+        "uid" : "8486d260c76366a2",
+        "parentUid" : "901a608050b8d837639f314cbfcdbe32",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "901a608050b8d837639f314cbfcdbe32"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-10(23)",
+      "children" : [ {
+        "name" : "Product order test (M size, blue color) Test",
+        "uid" : "268796a1a6eefd10",
+        "parentUid" : "09eafb219c27a67763eec6178f930a84",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09eafb219c27a67763eec6178f930a84"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-14(43)",
+      "children" : [ {
+        "name" : "Login Test",
+        "uid" : "43130462b1b7dbec",
+        "parentUid" : "acdb18a3e92f146352edd3bf15efd198",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837995,
+          "stop" : 1659602838249,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "acdb18a3e92f146352edd3bf15efd198"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-3(24)",
+      "children" : [ {
+        "name" : "Login empty password field error validation Test",
+        "uid" : "5acde7426e460c6d",
+        "parentUid" : "83dfc073e5eb6811f9a128474ba36fc2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "83dfc073e5eb6811f9a128474ba36fc2"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-0(47)",
+      "children" : [ {
+        "name" : "Registration - missing required values Test",
+        "uid" : "2b8d8365a2936734",
+        "parentUid" : "3fc2cffbcef6d7cac57c4734cc082e84",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838013,
+          "stop" : 1659602838252,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3fc2cffbcef6d7cac57c4734cc082e84"
+    }, {
+      "name" : "14084@DESKTOP-6CHBCKQ.main(1)",
+      "children" : [ {
+        "name" : "automationPracticeWebsite()",
+        "uid" : "b470689a0f1ceb0c",
+        "parentUid" : "27823415dd4e773fdfc7f606b20ad247",
+        "status" : "broken",
+        "time" : {
+          "start" : 1657890548279,
+          "stop" : 1657890548760,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27823415dd4e773fdfc7f606b20ad247"
+    }, {
+      "name" : "13488@DESKTOP-6CHBCKQ.main(1)",
+      "children" : [ {
+        "name" : "automationPracticeWebsiteTest()",
+        "uid" : "b68680b8b659ab2b",
+        "parentUid" : "87257282b025a22ca4f6beb25ac0ae9d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658134263745,
+          "stop" : 1658134272267,
+          "duration" : 8522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "87257282b025a22ca4f6beb25ac0ae9d"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-9(14)",
+      "children" : [ {
+        "name" : "Login - wrong password error validation Test",
+        "uid" : "c89778c5636058df",
+        "parentUid" : "09916c39583fa650fd2730f8ff2361d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09916c39583fa650fd2730f8ff2361d1"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-6(19)",
+      "children" : [ {
+        "name" : "Employee claims Test",
+        "uid" : "c55182c668acb0c4",
+        "parentUid" : "ae8be1b772a6cd94c3aa93622d1e7c81",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838252,
+          "duration" : 1139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ae8be1b772a6cd94c3aa93622d1e7c81"
+    }, {
+      "name" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-15(20)",
+      "children" : [ {
+        "name" : "My info Test",
+        "uid" : "e549626689fe5478",
+        "parentUid" : "addc157a2f6377cf92612e857c378fdc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838250,
+          "duration" : 1137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "addc157a2f6377cf92612e857c378fdc"
+    } ],
+    "uid" : "d625fec0d65d4e42ed62071368acac0c"
+  } ]
+}

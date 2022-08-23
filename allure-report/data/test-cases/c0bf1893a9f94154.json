@@ -1,0 +1,267 @@
+{
+  "uid" : "c0bf1893a9f94154",
+  "name" : "Login - unregistered email error validation Test",
+  "fullName" : "website.tests.UnregisteredEmailTest.unregisteredEmailTest",
+  "historyId" : "e8400f83f54c926fe0849a05fe67fe44",
+  "time" : {
+    "start" : 1659602838443,
+    "stop" : 1659602838465,
+    "duration" : 22
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+  "statusTrace" : "org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:84)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)\r\n\tat org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:230)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:138)\r\n\tat mainbase.factory.EdgeHeadlessFactory.createRemoteDriver(EdgeHeadlessFactory.java:24)\r\n\tat mainbase.factory.DriverFactory.createRemoteWebDriver(DriverFactory.java:33)\r\n\tat mainbase.TestBase.beforeTest(TestBase.java:23)\r\n\tat sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)\r\n\tat org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)\r\n\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)\r\n\tat org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)\r\n\tat org.junit.jupiter.engine.extension.TimeoutExtension.interceptLifecycleMethod(TimeoutExtension.java:126)\r\n\tat org.junit.jupiter.engine.extension.TimeoutExtension.interceptBeforeEachMethod(TimeoutExtension.java:76)\r\n\tat org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)\r\n\tat org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)\r\n\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)\r\n\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)\r\n\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)\r\n\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)\r\n\tat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)\r\n\tat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)\r\n\tat org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeMethodInExtensionContext(ClassBasedTestDescriptor.java:506)\r\n\tat org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$synthesizeBeforeEachMethodAdapter$21(ClassBasedTestDescriptor.java:491)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachMethods$3(TestMethodTestDescriptor.java:171)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:199)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:199)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachMethods(TestMethodTestDescriptor.java:168)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:131)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\r\n\tat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\r\n\tat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService$ExclusiveTask.compute(ForkJoinPoolHierarchicalTestExecutorService.java:185)\r\n\tat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService.invokeAll(ForkJoinPoolHierarchicalTestExecutorService.java:129)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\r\n\tat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\r\n\tat org.junit.platform.engine.support.hierarchical.ForkJoinPoolHierarchicalTestExecutorService$ExclusiveTask.compute(ForkJoinPoolHierarchicalTestExecutorService.java:185)\r\n\tat java.util.concurrent.RecursiveAction.exec(RecursiveAction.java:189)\r\n\tat java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)\r\n\tat java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1067)\r\n\tat java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1703)\r\n\tat java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:172)\r\n\tSuppressed: java.lang.NullPointerException\r\n\t\tat mainbase.TestBase.afterTest(TestBase.java:48)\r\n\t\tat sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)\r\n\t\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\t\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\t\tat org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)\r\n\t\tat org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)\r\n\t\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)\r\n\t\tat org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)\r\n\t\tat org.junit.jupiter.engine.extension.TimeoutExtension.interceptLifecycleMethod(TimeoutExtension.java:126)\r\n\t\tat org.junit.jupiter.engine.extension.TimeoutExtension.interceptAfterEachMethod(TimeoutExtension.java:108)\r\n\t\tat org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)\r\n\t\tat org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)\r\n\t\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)\r\n\t\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)\r\n\t\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)\r\n\t\tat org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)\r\n\t\tat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)\r\n\t\tat org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)\r\n\t\tat org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeMethodInExtensionContext(ClassBasedTestDescriptor.java:506)\r\n\t\tat org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$synthesizeAfterEachMethodAdapter$22(ClassBasedTestDescriptor.java:496)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachMethods$10(TestMethodTestDescriptor.java:240)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:273)\r\n\t\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$14(TestMethodTestDescriptor.java:273)\r\n\t\tat java.util.ArrayList.forEach(ArrayList.java:1259)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:272)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachMethods(TestMethodTestDescriptor.java:238)\r\n\t\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)\r\n\t\t... 25 more\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Web shop"
+  }, {
+    "name" : "feature",
+    "value" : "Web shop test"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-6CHBCKQ"
+  }, {
+    "name" : "thread",
+    "value" : "13612@DESKTOP-6CHBCKQ.ForkJoinPool-1-worker-13(18)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "website.tests.UnregisteredEmailTest"
+  }, {
+    "name" : "testClass",
+    "value" : "website.tests.UnregisteredEmailTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "unregisteredEmailTest"
+  }, {
+    "name" : "suite",
+    "value" : "website.tests.UnregisteredEmailTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "57f808ac2244e3f2",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600935720,
+        "stop" : 1659600935746,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "9cb76d28fefef15d",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600925965,
+        "stop" : 1659600925995,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "364da34e0075a78d",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600890199,
+        "stop" : 1659600890223,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "3736ec0b62fcf3c0",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600732147,
+        "stop" : 1659600732169,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "e5b55e5c375e9dab",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600583636,
+        "stop" : 1659600583662,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "11f485f1623e727",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600567043,
+        "stop" : 1659600567074,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "e1b33f17baf7b501",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600536248,
+        "stop" : 1659600536272,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "2de2993d4269a372",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600278537,
+        "stop" : 1659600278575,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "acf32f5aaf652b10",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.2.1', revision: 'ac4d0fdd4a'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600224924,
+        "stop" : 1659600224954,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "a344a8a66c0f0269",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.0.0', revision: '3a21814679'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600181957,
+        "stop" : 1659600181981,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "6678825189ffcb73",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600157091,
+        "stop" : 1659600157127,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "2d83d4699e22d994",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659600132422,
+        "stop" : 1659600132449,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "4b226cb998c7d465",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1659600014856,
+        "stop" : 1659600014858,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4bd699bd95d5ce46",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659599833619,
+        "stop" : 1659599833649,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "349b9cc57e3000aa",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659599805599,
+        "stop" : 1659599805628,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "941a9eb553e950b1",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659599773651,
+        "stop" : 1659599773677,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "9031138a6e6e8449",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: driver.version: unknown\nremote stacktrace: \nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}], desiredCapabilities=Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659598953326,
+        "stop" : 1659598965320,
+        "duration" : 11994
+      }
+    }, {
+      "uid" : "52664a5ad16dea49",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: driver.version: unknown\nremote stacktrace: \nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}], desiredCapabilities=Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659598726675,
+        "stop" : 1659598738657,
+        "duration" : 11982
+      }
+    }, {
+      "uid" : "d78f1851e376f605",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: driver.version: unknown\nremote stacktrace: \nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}], desiredCapabilities=Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {args: [-headless]}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659598353842,
+        "stop" : 1659598365942,
+        "duration" : 12100
+      }
+    }, {
+      "uid" : "c27a70399540d36e",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]\nCapabilities {}",
+      "time" : {
+        "start" : 1659597776461,
+        "stop" : 1659597788713,
+        "duration" : 12252
+      }
+    }, {
+      "uid" : "c51031fbf9b55eb3",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6c119c03a5238b2574ebe621e3033682, getCurrentUrl {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\olahk\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61260/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6c119c03a5238b2574ebe621e3033682",
+      "time" : {
+        "start" : 1659597618524,
+        "stop" : 1659597774371,
+        "duration" : 155847
+      }
+    }, {
+      "uid" : "2d92635f0dee4d9c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1659597578659,
+        "stop" : 1659597587181,
+        "duration" : 8522
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c0bf1893a9f94154.json",
+  "parameterValues" : [ ]
+}

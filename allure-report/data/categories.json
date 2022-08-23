@@ -1,0 +1,355 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "org/openqa/selenium/internal/ShutdownHooks$HookExecutionStrategy",
+      "children" : [ {
+        "name" : "automationPracticeWebsite()",
+        "uid" : "b470689a0f1ceb0c",
+        "parentUid" : "3666f612646e0463c1754c426905957f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1657890548279,
+          "stop" : 1657890548760,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3666f612646e0463c1754c426905957f"
+    }, {
+      "name" : "Could not start a new session. Response code 500. Message: Error forwarding the new session cannot find : Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'DESKTOP-6CHBCKQ', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_331'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}], desiredCapabilities=Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless], extensions: []}}}]\nCapabilities {}",
+      "children" : [ {
+        "name" : "Dynamic Property Test",
+        "uid" : "fed4feb488b30322",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password Test - retrieve password",
+        "uid" : "19cb80a328b6638c",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838246,
+          "duration" : 1133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check Registration User Test",
+        "uid" : "9e1fb30078df0671",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838251,
+          "duration" : 1138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Droppable rectangle Test",
+        "uid" : "ab9cec9b825c939a",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838244,
+          "duration" : 1131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Upload File Test",
+        "uid" : "8486d260c76366a2",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Product order test (M size, blue color) Test",
+        "uid" : "268796a1a6eefd10",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Widget Test",
+        "uid" : "74dd678c391ee3ba",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838247,
+          "duration" : 1134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create Screenshot Test",
+        "uid" : "adfeb33ea5152b5b",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838245,
+          "duration" : 1132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login empty password field error validation Test",
+        "uid" : "5acde7426e460c6d",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - wrong password error validation Test",
+        "uid" : "c89778c5636058df",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838243,
+          "duration" : 1130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Employee claims Test",
+        "uid" : "c55182c668acb0c4",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838252,
+          "duration" : 1139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "My info Test",
+        "uid" : "e549626689fe5478",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837113,
+          "stop" : 1659602838250,
+          "duration" : 1137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password Test -  wrong email format validation",
+        "uid" : "54b75709e1860d1b",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837987,
+          "stop" : 1659602838243,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login Test",
+        "uid" : "43130462b1b7dbec",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602837995,
+          "stop" : 1659602838249,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - logout Test",
+        "uid" : "56d5ee62165c160f",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838003,
+          "stop" : 1659602838250,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - missing required values Test",
+        "uid" : "2b8d8365a2936734",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838013,
+          "stop" : 1659602838252,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Product order Test (S size, orange color)",
+        "uid" : "65cbbf9b34f5bb8",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838021,
+          "stop" : 1659602838246,
+          "duration" : 225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - set the birth date on creation  Test",
+        "uid" : "957c571b653d5163",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838159,
+          "stop" : 1659602838243,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration Test",
+        "uid" : "93e1c051a9bb9234",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838176,
+          "stop" : 1659602838248,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - used email error validation Test",
+        "uid" : "e4b659c7d228572e",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838474,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - unregistered email error validation Test",
+        "uid" : "c0bf1893a9f94154",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838465,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Forgot password  - retrieve password Test",
+        "uid" : "51f5cce39b6f506b",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838467,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search for 'blouse' Test",
+        "uid" : "fb94d9ae254864bd",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838443,
+          "stop" : 1659602838466,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login - wrong email format error validations Test",
+        "uid" : "d24b1a908de1ff1f",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838466,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Registration - wrong email format error validations Test",
+        "uid" : "e67dee2262634d9d",
+        "parentUid" : "7b24070b8895f3feed902391e890b0f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659602838444,
+          "stop" : 1659602838468,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b24070b8895f3feed902391e890b0f9"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

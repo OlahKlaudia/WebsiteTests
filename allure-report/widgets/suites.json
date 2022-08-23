@@ -1,0 +1,114 @@
+{
+  "total" : 26,
+  "items" : [ {
+    "uid" : "8138a7ad960ffe9e929c404d1b4d41ce",
+    "name" : "tests.AutomationPracticeWebsiteTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "9a1cb012085a818c43a372cc1c2ee289",
+    "name" : "demoQA.toolsqatests.DynamicPropertyTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1aaa5d279ff0a168c8702643043192f2",
+    "name" : "website.tests.ForgotPasswordTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "888370f71bb58d802d4f21dfd3e59908",
+    "name" : "website.tests.CheckRegistrationUserTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "bbefd3653ea52a1d2c743e2a2cd8d6fa",
+    "name" : "demoQA.toolsqatests.DroppableTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "018af1e64c0abc017acb92ab273d48d0",
+    "name" : "demoQA.toolsqatests.UploadTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5f49cca5461bf2346522c06bc0048b56",
+    "name" : "website.tests.BlueShirtOrderTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7427b6ccd7e524ca3e75a853f4cec641",
+    "name" : "demoQA.toolsqatests.WidgetTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8d85d2a1e3a143aceef684df40218476",
+    "name" : "website.tests.AutomationPracticeWebsiteTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5a54aa642b079fda5508c938766725ea",
+    "name" : "website.tests.EmptyPasswordTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

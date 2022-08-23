@@ -1,0 +1,271 @@
+[ {
+  "uid" : "19cb80a328b6638c",
+  "name" : "Forgot password Test - retrieve password",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838246,
+    "duration" : 1133
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c55182c668acb0c4",
+  "name" : "Employee claims Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838252,
+    "duration" : 1139
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b68680b8b659ab2b",
+  "name" : "automationPracticeWebsiteTest()",
+  "time" : {
+    "start" : 1658134263745,
+    "stop" : 1658134272267,
+    "duration" : 8522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56d5ee62165c160f",
+  "name" : "Login - logout Test",
+  "time" : {
+    "start" : 1659602838003,
+    "stop" : 1659602838250,
+    "duration" : 247
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e4b659c7d228572e",
+  "name" : "Registration - used email error validation Test",
+  "time" : {
+    "start" : 1659602838443,
+    "stop" : 1659602838474,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0bf1893a9f94154",
+  "name" : "Login - unregistered email error validation Test",
+  "time" : {
+    "start" : 1659602838443,
+    "stop" : 1659602838465,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fed4feb488b30322",
+  "name" : "Dynamic Property Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838243,
+    "duration" : 1130
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "74dd678c391ee3ba",
+  "name" : "Widget Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838247,
+    "duration" : 1134
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65cbbf9b34f5bb8",
+  "name" : "Product order Test (S size, orange color)",
+  "time" : {
+    "start" : 1659602838021,
+    "stop" : 1659602838246,
+    "duration" : 225
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9e1fb30078df0671",
+  "name" : "Check Registration User Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838251,
+    "duration" : 1138
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e67dee2262634d9d",
+  "name" : "Registration - wrong email format error validations Test",
+  "time" : {
+    "start" : 1659602838444,
+    "stop" : 1659602838468,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5acde7426e460c6d",
+  "name" : "Login empty password field error validation Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838243,
+    "duration" : 1130
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54b75709e1860d1b",
+  "name" : "Forgot password Test -  wrong email format validation",
+  "time" : {
+    "start" : 1659602837987,
+    "stop" : 1659602838243,
+    "duration" : 256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "93e1c051a9bb9234",
+  "name" : "Registration Test",
+  "time" : {
+    "start" : 1659602838176,
+    "stop" : 1659602838248,
+    "duration" : 72
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ab9cec9b825c939a",
+  "name" : "Droppable rectangle Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838244,
+    "duration" : 1131
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "957c571b653d5163",
+  "name" : "Registration - set the birth date on creation  Test",
+  "time" : {
+    "start" : 1659602838159,
+    "stop" : 1659602838243,
+    "duration" : 84
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "adfeb33ea5152b5b",
+  "name" : "Create Screenshot Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838245,
+    "duration" : 1132
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8486d260c76366a2",
+  "name" : "Upload File Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838243,
+    "duration" : 1130
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb94d9ae254864bd",
+  "name" : "Search for 'blouse' Test",
+  "time" : {
+    "start" : 1659602838443,
+    "stop" : 1659602838466,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43130462b1b7dbec",
+  "name" : "Login Test",
+  "time" : {
+    "start" : 1659602837995,
+    "stop" : 1659602838249,
+    "duration" : 254
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c89778c5636058df",
+  "name" : "Login - wrong password error validation Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838243,
+    "duration" : 1130
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e549626689fe5478",
+  "name" : "My info Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838250,
+    "duration" : 1137
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "51f5cce39b6f506b",
+  "name" : "Forgot password  - retrieve password Test",
+  "time" : {
+    "start" : 1659602838443,
+    "stop" : 1659602838467,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d24b1a908de1ff1f",
+  "name" : "Login - wrong email format error validations Test",
+  "time" : {
+    "start" : 1659602838444,
+    "stop" : 1659602838466,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2b8d8365a2936734",
+  "name" : "Registration - missing required values Test",
+  "time" : {
+    "start" : 1659602838013,
+    "stop" : 1659602838252,
+    "duration" : 239
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "268796a1a6eefd10",
+  "name" : "Product order test (M size, blue color) Test",
+  "time" : {
+    "start" : 1659602837113,
+    "stop" : 1659602838243,
+    "duration" : 1130
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b470689a0f1ceb0c",
+  "name" : "automationPracticeWebsite()",
+  "time" : {
+    "start" : 1657890548279,
+    "stop" : 1657890548760,
+    "duration" : 481
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
